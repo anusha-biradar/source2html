@@ -1,0 +1,59 @@
+body
+{
+    background-color:#202124;
+    color:#ffffff;
+    font-family:monospace;
+    padding:20px;
+}
+
+pre
+{
+    white-space:pre-wrap;
+    line-height:1.5;
+}
+
+.keyword
+{
+    color:#569cd6;
+    font-weight:bold;
+}
+
+.identifier
+{
+    color:#ffffff;
+}
+
+.number
+{
+    color:#b5cea8;
+}
+
+.string
+{
+    color:#ce9178;
+}
+
+.character
+{
+    color:#ce9178;
+}
+
+.single-comment
+{
+    color:#6a9955;
+}
+
+.multi-comment
+{
+    color:#6a9955;
+}
+
+.preprocessor
+{
+    color:#c586c0;
+}
+
+.operator
+{
+    color:#d4d4d4;
+}
